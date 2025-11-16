@@ -1,6 +1,6 @@
 export const URL = import.meta.env.DEV
   ? "http://localhost:8000/api"
-  : "https://plastic-trace-api.vercel.app/api";
+  : "https://plastic-trace-final.vercel.app/api";
 
 export const CHAIN_ID = 1287;
 
